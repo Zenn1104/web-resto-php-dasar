@@ -1,0 +1,22 @@
+[
+  {
+    "name": "kopi espresso",
+    "image": "./images/kopi-espresso.jpg",
+    "price": "IDR 15K"
+  },
+  {
+    "name": "Nasi Goreng Seafood",
+    "image": "./images/nasi-goreng-seafood.jpg",
+    "price": "IDR 20K"
+  },
+  {
+    "name": "Teh Tawar",
+    "image": "./images/es-teh-tawar.jpg",
+    "price": "IDR 5K"
+  },
+  {
+    "name": "Ikan Bakar Talewang",
+    "image": "./images/ikan-bakar.jpg",
+    "price": "IDR 50K"
+  }
+]

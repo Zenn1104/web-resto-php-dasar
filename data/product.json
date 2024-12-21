@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kepiting Saos Padang",
+    "price": "IDR 35k",
+    "rating": [1, 1, 1, 1, 0],
+    "image": "./images/kepiting-saos-padang.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo omnis tenetur illo iste, deserunt ut hic voluptatem praesentium rem nobis tempore! Molestias, mollitia eaque explicabo quasi id veniam, consequuntur maxime consectetur similique perspiciatis, exercitationem non neque in amet. Atque accusantium expedita qui aut similique? Tempore, vero. Tempore illo modi hic."
+  },
+  {
+    "id": 2,
+    "name": "Seafood Bakar",
+    "price": "IDR 45k",
+    "rating": [1, 1, 1, 1, 1],
+    "image": "./images/seafood-bakar.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo omnis tenetur illo iste, deserunt ut hic voluptatem praesentium rem nobis tempore! Molestias, mollitia eaque explicabo quasi id veniam, consequuntur maxime consectetur similique perspiciatis, exercitationem non neque in amet. Atque accusantium expedita qui aut similique? Tempore, vero. Tempore illo modi hic."
+  },
+  {
+    "id": 3,
+    "name": "Ikan Bakar",
+    "price": "IDR 45k",
+    "rating": [1, 1, 1, 0, 0],
+    "image": "./images/ikan-bakar.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo omnis tenetur illo iste, deserunt ut hic voluptatem praesentium rem nobis tempore! Molestias, mollitia eaque explicabo quasi id veniam, consequuntur maxime consectetur similique perspiciatis, exercitationem non neque in amet. Atque accusantium expedita qui aut similique? Tempore, vero. Tempore illo modi hic."
+  }
+]
